@@ -13,7 +13,7 @@ The final output for this notebook is the dataset `hot_100_lyrics.csv` file.
 
 - **Hidden Hits 2 - Spotify-Kaggle Dataset Clean** _(written by Mir Adnan Mahmood)_ contains code that extracts song features for songs that appear on the Billboard Hot 100s Year End lists from the Kaggle Dataset created by Yamac Eren Ay found [here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks). The code first creates a subset of the Hot 100's data `tracks_hot100.csv` and supplements it with another dataset that contains song features for songs that did not appear on the Hot 100s list. This dataset is found in `tracks_not100_sub.csv`.
 
- - **Hidden Hits 2 - Hot 100 classification** _(written by Khyati Malik and JongHoon Shin)_ This notebook contains the code to run the classification algorithm that predicts whether or not a song is a Hot 100 or a Not 100 song using a Random Forest Classifier. Results for different models and features are published in the _New Update_ folder. **Note:** This file is the same as the `hot_100_classification_v1` notebook in the _New Update_ folder.
+ - **Hidden Hits 3 - Hot 100 Classification** _(written by Khyati Malik and JongHoon Shin)_ This notebook contains the code to run the classification algorithm that predicts whether or not a song is a Hot 100 or a Not 100 song using a Random Forest Classifier. Results for different models and features are published in the _New Update_ folder. **Note:** This file is the same as the `hot_100_classification_v1` notebook in the _New Update_ folder.
 
  - **Notebook on Classification via Lyrics**
 
