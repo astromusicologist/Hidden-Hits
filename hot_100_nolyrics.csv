@@ -1,103 +1,55 @@
 title,artists,rank,year,first_artist,title_fmtd,lyrics
- Alejandro,Lady Gaga,33,2010,lady gaga, alejandro,URL-ERROR-LYRICS-NOT-FOUND
-Naturally,Selena Gomez & The Scene,77,2010,selena gomez,naturally,URL-ERROR-LYRICS-NOT-FOUND
-Sweet Dreams ,Beyonce,86,2010,beyonce,sweet dreams ,URL-ERROR-LYRICS-NOT-FOUND
+Empire State Of Mind,Jay-Z + Alicia Keys,21,2010,jay z and alicia keys,empire state of mind,URL-ERROR-LYRICS-NOT-FOUND
+Young Forever,Jay-Z + Mr. Hudson,50,2010,jay z and mr hudson,young forever,URL-ERROR-LYRICS-NOT-FOUND
 F**kin' Perfect,P!nk,19,2011,pink,f**kin perfect,URL-ERROR-LYRICS-NOT-FOUND
-Coming Home,Diddy - Dirty Money Featuring Skylar Grey,38,2011,diddy  dirty money,coming home,URL-ERROR-LYRICS-NOT-FOUND
-Just A Dream ,Nelly,52,2011,nelly,just a dream ,URL-ERROR-LYRICS-NOT-FOUND
-Who Says,Selena Gomez & The Scene,78,2011,selena gomez,who says,URL-ERROR-LYRICS-NOT-FOUND
+Stereo Love,Edward Maya & Vika Jigulina,54,2011,edward maya and vika jigulina,stereo love,URL-ERROR-LYRICS-NOT-FOUND
 Remind Me,Brad Paisley Duet With Carrie Underwood,82,2011,brad paisley duet,remind me,URL-ERROR-LYRICS-NOT-FOUND
-She Will ,Lil Wayne Featuring Drake,95,2011,lil wayne,she will ,URL-ERROR-LYRICS-NOT-FOUND
-Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz",27,2012,"kanye west, big sean, pusha t, 2 chainz",mercy,URL-ERROR-LYRICS-NOT-FOUND
-" Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,32,2012,snoop dogg, young wild and free,URL-ERROR-LYRICS-NOT-FOUND
 Ni**as in Paris,Jay Z Kanye West,40,2012,jay z kanye west,ni**as in paris,URL-ERROR-LYRICS-NOT-FOUND
-Scream,Usher,44,2012,usher,scream,URL-ERROR-LYRICS-NOT-FOUND
 Dance (A$$),Big Sean Featuring Nicki Minaj,57,2012,big sean,dance a$$,URL-ERROR-LYRICS-NOT-FOUND
-Love You Like A Love Song,Selena Gomez & The Scene,83,2012,selena gomez,love you like a love song,URL-ERROR-LYRICS-NOT-FOUND
-Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,5,2013,macklemore,cant hold us,URL-ERROR-LYRICS-NOT-FOUND
 Cups (Pitch Perfect's When I'm Gone),Anna Kendrick,21,2013,anna kendrick,cups pitch perfects when im gone,URL-ERROR-LYRICS-NOT-FOUND
+Scream & Shout,will.i.am & Britney Spears,23,2013,william and britney spears,scream and shout,URL-ERROR-LYRICS-NOT-FOUND
 F**kin Problems,"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",41,2013,asap rocky,f**kin problems,URL-ERROR-LYRICS-NOT-FOUND
- Home,Phillip Phillips,46,2013,phillip phillips, home,URL-ERROR-LYRICS-NOT-FOUND
-I Will Wait,Mumford & Sons,52,2013,mumford,i will wait,URL-ERROR-LYRICS-NOT-FOUND
+Summertime Sadness,Lana Del Rey & Cedric Gervais,45,2013,lana del rey and cedric gervais,summertime sadness,URL-ERROR-LYRICS-NOT-FOUND
 The Fox,Ylvis,73,2013,ylvis,the fox,URL-ERROR-LYRICS-NOT-FOUND
 #Beautiful,Mariah Carey Featuring Miguel,81,2013,mariah carey,#beautiful,None Found
 #thatPOWER,will.i.am Featuring Justin Bieber,95,2013,william,#thatpower,None Found
- Still Into You,Paramore,100,2013,paramore, still into you,URL-ERROR-LYRICS-NOT-FOUND
-Rude,MAGIC!,7,2014,magic ,rude,URL-ERROR-LYRICS-NOT-FOUND
-Am I Wrong,Nico & Vinz,14,2014,nico,am i wrong,URL-ERROR-LYRICS-NOT-FOUND
- Story Of My Life,One Direction,24,2014,one direction, story of my life,URL-ERROR-LYRICS-NOT-FOUND
-Bang Bang,"Jessie J, Ariana Grande & Nicki Minaj",27,2014,"jessie j, ariana grande",bang bang,URL-ERROR-LYRICS-NOT-FOUND
 Hot Boy,Bobby Shmurda,54,2014,bobby shmurda,hot boy,URL-ERROR-LYRICS-NOT-FOUND
-23 ,"Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J",90,2014,mike will made it,23 ,URL-ERROR-LYRICS-NOT-FOUND
-She Looks So Perfect ,5 Seconds Of Summer,93,2014,5 seconds of summer,she looks so perfect ,URL-ERROR-LYRICS-NOT-FOUND
 0 To 100 / The Catch Up,Drake,97,2014,drake,0 to 100 / the catch up,URL-ERROR-LYRICS-NOT-FOUND
 Somethin' Bad,Miranda Lambert Duet With Carrie Underwood,99,2014,miranda lambert duet,somethin bad,URL-ERROR-LYRICS-NOT-FOUND
- Cheerleader,OMI,11,2015,omi, cheerleader,URL-ERROR-LYRICS-NOT-FOUND
- Style,Taylor Swift,29,2015,taylor swift, style,URL-ERROR-LYRICS-NOT-FOUND
- Locked Away,R. City Featuring Adam Levine,40,2015,r city, locked away,URL-ERROR-LYRICS-NOT-FOUND
 I Don't F**k With You,Big Sean Featuring E-40,47,2015,big sean,i dont f**k with you,URL-ERROR-LYRICS-NOT-FOUND
 B**** Better Have My Money,Rihanna,48,2015,rihanna,b**** better have my money,URL-ERROR-LYRICS-NOT-FOUND
 7/11,Beyonce,61,2015,beyonce,7/11,URL-ERROR-LYRICS-NOT-FOUND
-Dear Future Husband ,Meghan Trainor,74,2015,meghan trainor,dear future husband ,URL-ERROR-LYRICS-NOT-FOUND
-Bang Bang,"Jessie J, Ariana Grande & Nicki Minaj",80,2015,"jessie j, ariana grande",bang bang,URL-ERROR-LYRICS-NOT-FOUND
-Ayo ,Chris Brown & Tyga,86,2015,chris brown,ayo ,URL-ERROR-LYRICS-NOT-FOUND
+El Perdon (Forgiveness),Nicky Jam & Enrique Iglesias,96,2015,nicky jam and enrique iglesias,el perdon forgiveness,URL-ERROR-LYRICS-NOT-FOUND
 "Me, Myself & I",G-Eazy x Bebe Rexha,19,2016,g eazy x bebe rexha,me myself and i,URL-ERROR-LYRICS-NOT-FOUND
-Like I'm Gonna Lose You ,Meghan Trainor Featuring John Legend,42,2016,meghan trainor,like im gonna lose you ,URL-ERROR-LYRICS-NOT-FOUND
-Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",68,2016,"lil wayne, wiz khalifa",sucker for pain,URL-ERROR-LYRICS-NOT-FOUND
+Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,2,2017,luis fonsi and daddy yankee,despacito,URL-ERROR-LYRICS-NOT-FOUND
 Bodak Yellow (Money Moves),Cardi B,24,2017,cardi b,bodak yellow money moves,URL-ERROR-LYRICS-NOT-FOUND
 I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,26,2017,zayn / taylor swift,i dont wanna live forever fifty shades darker,URL-ERROR-LYRICS-NOT-FOUND
 It Ain't Me,Kygo x Selena Gomez,27,2017,kygo x selena gomez,it aint me,URL-ERROR-LYRICS-NOT-FOUND
- Bounce Back,Big Sean,35,2017,big sean, bounce back,URL-ERROR-LYRICS-NOT-FOUND
 Bad Things,Machine Gun Kelly x Camila Cabello,41,2017,machine gun kelly x camila cabello,bad things,URL-ERROR-LYRICS-NOT-FOUND
-Rolex,Ayo & Teo,61,2017,ayo,rolex,URL-ERROR-LYRICS-NOT-FOUND
- Feels,"Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",74,2017,calvin harris, feels,URL-ERROR-LYRICS-NOT-FOUND
+Juju On That Beat (TZ Anthem),Zay Hilfigerrr & Zayion McCall,63,2017,zay hilfigerrr and zayion mccall,juju on that beat tz anthem,URL-ERROR-LYRICS-NOT-FOUND
 What About Us,P!nk,84,2017,pink,what about us,URL-ERROR-LYRICS-NOT-FOUND
-I Like It,"Cardi B, Bad Bunny & J Balvin",7,2018,"cardi b, bad bunny",i like it,URL-ERROR-LYRICS-NOT-FOUND
-The Middle,"Zedd, Maren Morris & Grey",8,2018,"zedd, maren morris",the middle,URL-ERROR-LYRICS-NOT-FOUND
-Yes Indeed,Lil Baby & Drake,25,2018,lil baby,yes indeed,URL-ERROR-LYRICS-NOT-FOUND
-Tequila,Dan + Shay,32,2018,dan,tequila,URL-ERROR-LYRICS-NOT-FOUND
-MotorSport,"Migos, Nicki Minaj & Cardi B",34,2018,"migos, nicki minaj",motorsport,URL-ERROR-LYRICS-NOT-FOUND
-Ric Flair Drip,Offset & Metro Boomin,38,2018,offset,ric flair drip,URL-ERROR-LYRICS-NOT-FOUND
-Pray For Me,The Weeknd & Kendrick Lamar,40,2018,the weeknd,pray for me,URL-ERROR-LYRICS-NOT-FOUND
+Finesse,Bruno Mars & Cardi B,14,2018,bruno mars and cardi b,finesse,URL-ERROR-LYRICS-NOT-FOUND
+Tequila,Dan + Shay,32,2018,dan and shay,tequila,URL-ERROR-LYRICS-NOT-FOUND
 Bodak Yellow (Money Moves),Cardi B,54,2018,cardi b,bodak yellow money moves,URL-ERROR-LYRICS-NOT-FOUND
 Wolves,Selena Gomez X Marshmello,60,2018,selena gomez x marshmello,wolves,URL-ERROR-LYRICS-NOT-FOUND
 Plain Jane,A$AP Ferg Featuring Nicki Minaj,74,2018,asap ferg,plain jane,URL-ERROR-LYRICS-NOT-FOUND
-Eastside,"benny blanco, Halsey & Khalid",77,2018,"benny blanco, halsey",eastside,URL-ERROR-LYRICS-NOT-FOUND
-King's Dead,"Jay Rock, Kendrick Lamar, Future & James Blake",79,2018,"jay rock, kendrick lamar, future",kings dead,URL-ERROR-LYRICS-NOT-FOUND
-Happier,Marshmello & Bastille,80,2018,marshmello,happier,URL-ERROR-LYRICS-NOT-FOUND
-Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",81,2018,"casper magico, nio garcia, darell, nicky jam, ozuna",te bote,URL-ERROR-LYRICS-NOT-FOUND
-Lemon,N*E*R*D & Rihanna,83,2018,n e r d,lemon,URL-ERROR-LYRICS-NOT-FOUND
-I'm Upset ,Drake,86,2018,drake,im upset ,URL-ERROR-LYRICS-NOT-FOUND
+Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",81,2018,casper magico,te bote,URL-ERROR-LYRICS-NOT-FOUND
+Lemon,N*E*R*D & Rihanna,83,2018,n e r d and rihanna,lemon,URL-ERROR-LYRICS-NOT-FOUND
 X,Nicky Jam x J Balvin,90,2018,nicky jam x j balvin,x,URL-ERROR-LYRICS-NOT-FOUND
-Believer ,Imagine Dragons,100,2018,imagine dragons,believer ,URL-ERROR-LYRICS-NOT-FOUND
-Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,2,2019,post malone,sunflower spider-man: into the spider-verse,URL-ERROR-LYRICS-NOT-FOUND
-Happier,Marshmello & Bastille,6,2019,marshmello,happier,URL-ERROR-LYRICS-NOT-FOUND
-Senorita,Shawn Mendes & Camila Cabello,15,2019,shawn mendes,senorita,URL-ERROR-LYRICS-NOT-FOUND
-Eastside,"benny blanco, Halsey & Khalid",17,2019,"benny blanco, halsey",eastside,URL-ERROR-LYRICS-NOT-FOUND
-Drip Too Hard,Lil Baby & Gunna,26,2019,lil baby,drip too hard,URL-ERROR-LYRICS-NOT-FOUND
+Powerglide,Rae Sremmurd & Juicy J,97,2018,rae sremmurd and juicy j,powerglide,URL-ERROR-LYRICS-NOT-FOUND
+Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,2,2019,post malone and swae lee,sunflower spider-man: into the spider-verse,URL-ERROR-LYRICS-NOT-FOUND
 Ran$om,Lil Tecca,28,2019,lil tecca,ran$om,URL-ERROR-LYRICS-NOT-FOUND
-Speechless,Dan + Shay,35,2019,dan,speechless,URL-ERROR-LYRICS-NOT-FOUND
+Speechless,Dan + Shay,35,2019,dan and shay,speechless,URL-ERROR-LYRICS-NOT-FOUND
 Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,51,2019,gucci mane x bruno mars x kodak black,wake up in the sky,URL-ERROR-LYRICS-NOT-FOUND
-The London,"Young Thug, J. Cole & Travis Scott",64,2019,"young thug, j cole",the london,URL-ERROR-LYRICS-NOT-FOUND
-I Like It,"Cardi B, Bad Bunny & J Balvin",69,2019,"cardi b, bad bunny",i like it,URL-ERROR-LYRICS-NOT-FOUND
-Only Human ,Jonas Brothers,78,2019,jonas brothers,only human ,URL-ERROR-LYRICS-NOT-FOUND
- Baby,Lil Baby & DaBaby,84,2019,lil baby, baby,URL-ERROR-LYRICS-NOT-FOUND
-One Thing Right,Marshmello & Kane Brown,89,2019,marshmello,one thing right,URL-ERROR-LYRICS-NOT-FOUND
-Tequila,Dan + Shay,91,2019,dan,tequila,URL-ERROR-LYRICS-NOT-FOUND
-Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",93,2019,"megan thee stallion, nicki minaj",hot girl summer,URL-ERROR-LYRICS-NOT-FOUND
-All To Myself,Dan + Shay,97,2019,dan,all to myself,URL-ERROR-LYRICS-NOT-FOUND
+Con Calma,Daddy Yankee & Katy Perry Featuring Snow,65,2019,daddy yankee and katy perry,con calma,URL-ERROR-LYRICS-NOT-FOUND
+Baby,Lil Baby & DaBaby,84,2019,lil baby and dababy,baby,URL-ERROR-LYRICS-NOT-FOUND
+Tequila,Dan + Shay,91,2019,dan and shay,tequila,URL-ERROR-LYRICS-NOT-FOUND
+All To Myself,Dan + Shay,97,2019,dan and shay,all to myself,URL-ERROR-LYRICS-NOT-FOUND
 Walk Me Home,P!nk,99,2019,pink,walk me home,URL-ERROR-LYRICS-NOT-FOUND
- Blinding Lights,The Weeknd,1,2020,the weeknd, blinding lights,URL-ERROR-LYRICS-NOT-FOUND
-"10,000 Hours",Dan + Shay & Justin Bieber,23,2020,dan,10000 hours,URL-ERROR-LYRICS-NOT-FOUND
-Toosie Slide ,Drake,32,2020,drake,toosie slide ,URL-ERROR-LYRICS-NOT-FOUND
-Savage Love (Laxed - Siren Beat), Jawsh 685 x Jason Derulo,35,2020,jawsh 685 x jason derulo,savage love laxed - siren beat,URL-ERROR-LYRICS-NOT-FOUND
-Go Crazy,Chris Brown & Young Thug,39,2020,chris brown,go crazy,URL-ERROR-LYRICS-NOT-FOUND
-Senorita,Shawn Mendes & Camila Cabello,44,2020,shawn mendes,senorita,URL-ERROR-LYRICS-NOT-FOUND
+"10,000 Hours",Dan + Shay & Justin Bieber,23,2020,dan and shay and justin bieber,10000 hours,URL-ERROR-LYRICS-NOT-FOUND
+Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,35,2020,jawsh 685 x jason derulo,savage love laxed - siren beat,URL-ERROR-LYRICS-NOT-FOUND
 RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,50,2020,black eyed peas x j balvin,ritmo bad boys for life,URL-ERROR-LYRICS-NOT-FOUND
 Nobody But You,Blake Shelton Duet With Gwen Stefani,52,2020,blake shelton duet,nobody but you,URL-ERROR-LYRICS-NOT-FOUND
 Come & Go,Juice WRLD x Marshmello,54,2020,juice wrld x marshmello,come and go,URL-ERROR-LYRICS-NOT-FOUND
-Bandit,Juice WRLD & YoungBoy Never Broke Again,63,2020,juice wrld,bandit,URL-ERROR-LYRICS-NOT-FOUND
-Die From A Broken Heart,Maddie & Tae,65,2020,maddie,die from a broken heart,URL-ERROR-LYRICS-NOT-FOUND
-Stuck With U,Ariana Grande & Justin Bieber,80,2020,ariana grande,stuck with u,URL-ERROR-LYRICS-NOT-FOUND
-The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",86,2020,"the scotts, travis scott",the scotts,URL-ERROR-LYRICS-NOT-FOUND
+Suicidal,YNW Melly & Juice WRLD,75,2020,ynw melly and juice wrld,suicidal,URL-ERROR-LYRICS-NOT-FOUND
 P*$$y Fairy (OTW),Jhene Aiko,94,2020,jhene aiko,p*$$y fairy otw,URL-ERROR-LYRICS-NOT-FOUND
